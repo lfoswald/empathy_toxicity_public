@@ -39,3 +39,8 @@ This repository contains supplementary material related to a preregistered surve
 * conducts rebustness checks for linear models 
 * explores treatment effect heterogeneity
 
+## 5. Language Comparison
+`5-language-comparison.R`
+* machine translation of English and German comment samples using DeepL API
+* toxicity scores for original and translated comments using Google's Perspective API
+* statistical test and plot of language comparison
